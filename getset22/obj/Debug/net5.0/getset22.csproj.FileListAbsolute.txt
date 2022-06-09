@@ -1,0 +1,16 @@
+C:\Users\laura\source\repos\getset22\getset22\bin\Debug\net5.0\getset22.exe
+C:\Users\laura\source\repos\getset22\getset22\bin\Debug\net5.0\getset22.deps.json
+C:\Users\laura\source\repos\getset22\getset22\bin\Debug\net5.0\getset22.runtimeconfig.json
+C:\Users\laura\source\repos\getset22\getset22\bin\Debug\net5.0\getset22.runtimeconfig.dev.json
+C:\Users\laura\source\repos\getset22\getset22\bin\Debug\net5.0\getset22.dll
+C:\Users\laura\source\repos\getset22\getset22\bin\Debug\net5.0\ref\getset22.dll
+C:\Users\laura\source\repos\getset22\getset22\bin\Debug\net5.0\getset22.pdb
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\getset22.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\getset22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\getset22.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\getset22.AssemblyInfo.cs
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\getset22.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\getset22.dll
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\ref\getset22.dll
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\getset22.pdb
+C:\Users\laura\source\repos\getset22\getset22\obj\Debug\net5.0\getset22.genruntimeconfig.cache
